@@ -22,11 +22,6 @@ wylosowana = random.random()
 zaokraglona = round(wylosowana,2)
 print(zaokraglona)
 
-# losowanie elementów - polecenie choice używamy do liter
-import random
-slowo = "Kognitywistyka"
-wylosowana = random.choice(slowo)
-print(wylosowana)
 
 # mierzenie czasu
 import time
