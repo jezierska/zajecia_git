@@ -208,33 +208,4 @@ elif przyslowie ==5:
 else:
     print("błąd")
 
-# zadanie 14
-import random
-liczba = random.random()
-if liczba>=0 and liczba<0.1:
-    print("<3")
-elif liczba>=0.1 and liczba<0.2:
-    print(":)")
-elif liczba>=0.2 and liczba<0.3:
-    print(";)")
-elif liczba>=0.3 and liczba<0.4:
-    print(":D")
-elif liczba>=0.4 and liczba<0.5:
-        print(":P")
-elif liczba>=0.5 and liczba<0.6:
-    print(":(")
-elif liczba>=0.6 and liczba<0.7:
-    print(":\'(")
-elif liczba>=0.7 and liczba<0.8:
-    print(":o")
-elif liczba>=0.8 and liczba<0.9:
-    print("XD")
-elif liczba>=0.9 and liczba<1:
-    print(":x")
 
-    
-# dodaję sobię gałąź do kodu 
-galaz = 1
-lista = [1,2,4,6,7]
-lista.append(galaz)
-print(lista)
