@@ -233,3 +233,10 @@ elif liczba>=0.8 and liczba<0.9:
     print("XD")
 elif liczba>=0.9 and liczba<1:
     print(":x")
+
+    
+# dodaję sobię gałąź do kodu 
+galaz = 1
+lista = [1,2,4,6,7]
+lista.append(galaz)
+print(lista)
