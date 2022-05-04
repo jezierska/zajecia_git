@@ -11,8 +11,6 @@ losowanie liczb rzeczywistych w podanym zakresie
 wylosowana = random.randint(0,1)+random.random()
 print(wylosowana)
 
-wylosowana = 2*random.random()
-print(wylosowana)
 
 wylosowana = random.randint(0,9)+random.random()-5
 print(wylosowana)
